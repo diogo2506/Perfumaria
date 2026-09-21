@@ -1,4 +1,4 @@
-# Perfumaria — CP1 + CP2 + CP3 + CP4
+# Perfumaria — CP4 - health checks, observabilidade com traceId e testes xUnit
  
 ## Integrantes
  
