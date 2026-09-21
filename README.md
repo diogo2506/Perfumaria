@@ -14,7 +14,7 @@ Sistema de gerenciamento para uma **perfumaria**: catálogo de produtos (perfume
 de estoque, pedidos de venda e relacionamento com fornecedores e casas fabricantes.
  
 > Este repositório é a evolução do CP2, originalmente modelado como uma loja de tintas.
-> A partir deste cp4 (não fiz o cp3), o domínio foi adaptado para uma perfumaria, mantendo a mesma
+> A partir deste cp4 (não tinha feito o cp3), o domínio foi adaptado para uma perfumaria, mantendo a mesma
 > estrutura de entidades e relacionamentos (apenas os campos específicos de produto
 > foram trocados — volume em litros → mililitros, tipo de tinta → tipo de fragrância,
 > cor base → nota olfativa) para não descaracterizar o trabalho de modelagem do CP1/CP2.
